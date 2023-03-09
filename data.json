@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "subject": "greeting",
+      "variations": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Morning",
+        "Good afternoon",
+        "Afternoon",
+        "Evening",
+        "Good"
+      ],
+      "responses": [
+        "Hello, welcome",
+        "Hi, good to see you",
+        "Hola"
+      ]
+    },
+    {
+      "subject": "inquiry",
+      "variations": [
+        "Tell me more about MSSD",
+        "How can I register",
+        "When can I start",
+        "What do I need to start",
+        "What do I need to submit",
+        "What are the requirements"
+      ],
+      "responses": [
+        "Here is a link to all you need to know about MSSD: 'my_link_goes_here' ",
+        "Hi, good to see you",
+        "Hola"
+      ]
+    },
+    {
+      "subject": "thanks",
+      "variations": [
+        "Thank you",
+        "Thanks",
+        "That's helpful",
+        "What do I need to submit"
+      ],
+      "responses": [
+        "You are welcome",
+        "It's my pleasure",
+        "Happy I could help"
+      ]
+    },
+    {
+      "subject": "unsatisfied",
+      "variations": [
+        "I am not happy",
+        "That's bad",
+        "Poor"
+      ],
+      "responses": [
+        "I am sorry about any inconveniences this might have caused",
+        "I will try all my possible best to assist you",
+        "I am sorry about that"
+      ]
+    },
+    {
+      "subject": "status",
+      "variations": [
+        "How do you do",
+        "How are you",
+        "What's up"
+      ],
+      "responses": [
+        "I am fine, how about you?",
+        "I'm good, and you?",
+        "Hmmm, my day could be better, what about you?"
+      ]
+    },
+    {
+      "subject": "user_status",
+      "variations": [
+        "I'm good",
+        "I am fine",
+        "fine, thanks"
+      ],
+      "responses": [
+        "I am glad you are",
+        "Oh, that's cool! how can I be of help",
+        "Good, what can I help you with"
+      ]
+    },
+    {
+      "subject": "end chat",
+      "variations": [
+        "Bye",
+        "Goodbye",
+        "Alright bye"
+      ],
+      "responses": [
+        "See you later",
+        "I am glad I could be of help, bye.",
+        "Goodbye"
+      ]
+    }
+  ]
+}
